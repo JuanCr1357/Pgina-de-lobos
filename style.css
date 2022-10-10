@@ -1,0 +1,135 @@
+html{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body{
+
+    margin: 0;
+
+    background-color: #efefef;
+   
+}
+
+header{
+
+    background-color: rgb(61, 56, 56);
+
+    color: white;
+
+    padding: 3rem;
+  
+}
+
+header h1{
+
+    font-size: 2rem;
+
+    text-align: center;
+
+}
+
+img{
+
+    width: 25rem;
+
+}
+
+.Targetas{
+
+    width: 29rem;
+    
+    margin: auto ;
+
+}
+
+.Lobo{
+
+    transition: box_shadow 0.3s ease;
+
+    background-color: white;
+
+    margin: 2rem;
+
+    border-radius: 0.5rem;
+
+    padding: 0.25rem 0;
+
+    cursor: pointer;
+    
+}
+
+.subtitulo{
+
+    margin: 1rem;
+
+    font-size: 1.25rem;
+
+}
+
+.Lobo:hover{
+
+    box-shadow: 0 0.1rem 0.4rem black;
+
+    transform: translatey(-3%);
+
+}
+
+footer{
+
+    background-color: #222;
+    padding: 2rem;
+    color: white;
+}
+
+.corpyight{
+
+    font-size: 1rem;
+}
+
+footer section{
+
+    float: right;
+    color: white;
+    
+}
+
+footer p{
+
+    margin: 0;
+
+}
+
+footer a{
+    transition: color 0.3s ease;
+    color: white;
+    text-decoration: none;
+}
+
+.inicio{
+
+    padding: 1rem;
+
+}
+
+.mail{
+
+    padding: 1rem;
+
+}
+
+footer a:hover{
+    color: blue;
+
+}
+
+
+
+
+
+
+
+
+
+
