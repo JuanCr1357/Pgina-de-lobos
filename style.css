@@ -83,11 +83,6 @@ footer{
     color: white;
 }
 
-.corpyright{
-
-    font-size: 1rem;
-}
-
 footer section{
 
     float: right;
@@ -96,6 +91,8 @@ footer section{
 }
 
 footer p{
+    
+    font-size: 1rem;
 
     margin: 0;
 
